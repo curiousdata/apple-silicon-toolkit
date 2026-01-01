@@ -7,3 +7,6 @@ data/cifar-10-batches-py/data_batch_3
 data/cifar-10-batches-py/data_batch_4
 data/cifar-10-batches-py/data_batch_5
 data/cifar-10-batches-py/test_batch
+torch_compile.log
+.ipynb_checkpoints/torch_compile-checkpoint.log
+data/
